@@ -1,0 +1,15 @@
+{
+  "name": "camstudy",
+  "version": "1.0.0",
+  "private": true,
+  "main": "FINAL_FILE_CAMSTUDY_SERVER.js",
+  "scripts": {
+    "start": "node FINAL_FILE_CAMSTUDY_SERVER.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
